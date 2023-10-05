@@ -1,4 +1,6 @@
-<h1 align="left" id="macropower-title">:wave: I am Senior Web Developer and Web Designer.</h1>
+<h1 align="left" id="macropower-title">:wave: I am Senior Full Stack Developer.</h1>
+<h5 align="left" id="macropower-title">:wave: I am confident that my skills and experience make me the best candidate for the project that everything want.</h5>
+
 ## ⚡ Technologies
 <table align="center">
   <tr>
